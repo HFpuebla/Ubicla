@@ -1,1 +1,0 @@
-angular.module('ubicla', ['ionic'])
